@@ -1,4 +1,4 @@
-# HelloToast_Codelabs_AndroidStudio
+# AndroidStudio_Codelabs_TwoActivities
 
 _Aplicación con dos actividades que se comunican entre ellas, tienen relación padre-hijo_
 
